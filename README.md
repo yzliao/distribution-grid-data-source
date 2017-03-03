@@ -53,7 +53,9 @@ A collection of distribution power grid data source. You are highly encouraged t
 -   Available in Matpower format
 -   Need to request the test cases
 
-## Load Profile Data
+## Data Source
+
+### Load Data
 
 #### Pecan Street
 
@@ -62,7 +64,7 @@ A collection of distribution power grid data source. You are highly encouraged t
 
 
 
-## Solar Generation Profile Data
+### Solar Generation Profile Data
 
 #### PVWatts Calculator
 
@@ -75,3 +77,11 @@ A collection of distribution power grid data source. You are highly encouraged t
 #### VISDOM: Visualization and Insight System for Demand Operations and Management
 
 -   [Website](https://web.stanford.edu/~ramr/visdom.htm) [Github](https://github.com/ConvergenceDA/visdom)
+
+
+
+## Lecture Notes on Power System
+
+#### UIUC Power System Lecture Notes
+
+-   [Website](https://courses.engr.illinois.edu/ece476/fa2015/Lecture%20Notes/)
