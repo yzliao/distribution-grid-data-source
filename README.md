@@ -67,6 +67,11 @@ A collection of distribution power grid data source. You are highly encouraged t
 - Real and reactive powers collected at 1 sec frequency.
 - The data set contains measurements of 7 days' in summer and 7 days' in winter.
 
+#### Randomized Hourly Load Data for use with Taxonomy Distribution Feeders
+- [Website](https://catalog.data.gov/dataset/randomized-hourly-load-data-for-use-with-taxonomy-distribution-feeders-88065) [Download](http://en.openei.org/datasets/files/968/pub/)
+- Hourly load profile for Gridlab-D Taxonomy distribution feeders.
+- Check the website for how to use it.
+
 ### Solar Generation Profile Data
 
 #### PVWatts Calculator
