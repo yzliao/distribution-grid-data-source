@@ -62,7 +62,10 @@ A collection of distribution power grid data source. You are highly encouraged t
 -   [Website](http://www.pecanstreet.org/)
 -   Free access for academic research
 
-
+#### ADRES data set
+- [Website](http://www.ea.tuwien.ac.at/projects/adres_concept/EN/)
+- Real and reactive powers collected at 1 sec frequency.
+- The data set contains measurements of 7 days' in summer and 7 days' in winter.
 
 ### Solar Generation Profile Data
 
